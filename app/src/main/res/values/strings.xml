@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Infopedia</string>
+
+    <string name="tracks">Tracks</string>
+    <string name="movies">Movies</string>
+    <string name="episodes">Episodes</string>
+    <string name="books">Books</string>
+
+    <string name="error">Some error occurred,\nplease try again!</string>
+    <string name="loading">Loading…</string>
+
+    <string name="des_thumbnail">Record thumbnail</string>
+    <string name="more_details">More details</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_width_h">118dp</dimen>
+    <dimen name="item_height_h">160dp</dimen>
+
+    <dimen name="default_padding">8dp</dimen>
+</resources>
