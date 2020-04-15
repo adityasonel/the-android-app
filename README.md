@@ -1,4 +1,4 @@
-# kotlin-mvvm
+# the-android-app / kotlin-koin-mvvm-livedata-retrofit-glide-jetpack
 
 [![Kotlin](https://img.shields.io/badge/kotlin-1.3.71-blue.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-3.6.2-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin) [![Koin](https://img.shields.io/badge/mockito-2.1.5-orange.svg)](https://insert-koin.io)
 
